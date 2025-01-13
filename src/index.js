@@ -21,19 +21,6 @@ connectDB()
 })
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 import express from "express";
 ;(async () => {
